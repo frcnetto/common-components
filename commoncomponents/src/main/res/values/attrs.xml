@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DocumentTextInputLayout">
+        <attr name="documentType">
+            <flag name="CPF" value="1" />
+            <flag name="CNPJ" value="2" />
+        </attr>
+    </declare-styleable>
+</resources>
